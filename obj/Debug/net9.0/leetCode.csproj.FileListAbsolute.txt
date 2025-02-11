@@ -12,3 +12,4 @@
 /Users/danielmarcos/Documents/leetcode/leetCode/obj/Debug/net9.0/leetCode.pdb
 /Users/danielmarcos/Documents/leetcode/leetCode/obj/Debug/net9.0/leetCode.genruntimeconfig.cache
 /Users/danielmarcos/Documents/leetcode/leetCode/obj/Debug/net9.0/ref/leetCode.dll
+/Users/danielmarcos/Documents/leetcode/leetCode/obj/Debug/net9.0/leetCode.sourcelink.json
